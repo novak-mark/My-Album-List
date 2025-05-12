@@ -12,3 +12,4 @@
 /home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.pdb
 /home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.genruntimeconfig.cache
 /home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/ref/AlbumList.dll
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.sourcelink.json
