@@ -1,0 +1,14 @@
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/bin/Debug/net9.0/AlbumList
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/bin/Debug/net9.0/AlbumList.deps.json
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/bin/Debug/net9.0/AlbumList.runtimeconfig.json
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/bin/Debug/net9.0/AlbumList.dll
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/bin/Debug/net9.0/AlbumList.pdb
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.GeneratedMSBuildEditorConfig.editorconfig
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.AssemblyInfoInputs.cache
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.AssemblyInfo.cs
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.csproj.CoreCompileInputs.cache
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.dll
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/refint/AlbumList.dll
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.pdb
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/AlbumList.genruntimeconfig.cache
+/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/obj/Debug/net9.0/ref/AlbumList.dll

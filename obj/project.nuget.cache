@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0KxsID+JL/I=",
+  "success": true,
+  "projectFilePath": "/home/kita/Documents/Programing/Personal Projects/C#/MyAlbumList/AlbumList/AlbumList.csproj",
+  "expectedPackageFiles": [
+    "/home/kita/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
